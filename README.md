@@ -27,4 +27,5 @@ The output matrix will (hopefully) result in the following format:
 
 
 Note: Z positions are not interpolated right now but derived from the current z position, we normally do a software autofocus step or run it without
+
 Note2: There is a bug in the autofocus routine of the OMX software - it seems as if it does not perform filter wheel movements between acquiring and software autofocus (occurs only if the autofocus channel is on a light path with a filter wheel) - this is independent of the script function (occurs for all multipoint autofocus events - we need to document this and send a bug report to GE)
