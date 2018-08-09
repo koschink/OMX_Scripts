@@ -20,7 +20,9 @@ Usage: Define points using the OMX software, save the current point list as text
 The output matrix will (hopefully) result in the following format:
 
 1 2 3
+
 4 5 6
+
 7 8 9
 
 
